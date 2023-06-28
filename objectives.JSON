@@ -1,0 +1,17 @@
+{
+	"NestedObjectProperty": {
+		"Name": "Neste  Object",
+    "Description":"",
+    "Lessons": [1,2,3],
+    "Tags":"",
+    "Type":""
+	},
+  "NestedObjectProperty":{
+		"Name": "Neste  Object",
+    "Description":"",
+    "Lessons": [1,2,3],
+    "Tags":"",
+    "Type":""
+	}
+	
+}
